@@ -1,0 +1,2 @@
+# typescript
+ crash course project
